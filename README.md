@@ -16,7 +16,7 @@ by ZhuAnJie
 
 ## Dependencies
 tqdm==4.9.0\
-matplotlib==2.1.2
+matplotlib==2.1.2\
 mindspore==1.6.1
 
 ## Process data
