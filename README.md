@@ -7,8 +7,9 @@ Step by step: a hierarchical framework for multi-hop knowledge graph reasoning w
 * We propose a dynamic prospect mechanism for low-level policy assisted by the embedding based method. In this way, the action space after refinement guides the agent to a better and reasonable path.
 * We conduct experiments on four benchmark datasets (UMLS, Kinship, FB15K-237, NELL-995) comparing with baseline methods for knowledge graph reasoning, which verify the effectiveness and interpretability of our model.
 
-### MindSpore Version
-by luoxuewei
+### Pytorch Version
+https://github.com/AnneZhu1020/Step-by-step
+by ZhuAnJie
 
 ## Result
 ![result](https://user-images.githubusercontent.com/101320059/157618949-42f7336c-11d0-43df-a7b0-d03ff30a9504.png)
