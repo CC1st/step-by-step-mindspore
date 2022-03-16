@@ -9,7 +9,7 @@ Step by step: a hierarchical framework for multi-hop knowledge graph reasoning w
 
 ### Pytorch Version
 https://github.com/AnneZhu1020/Step-by-step
-by ZhuAnJie
+by Zhu Anjie
 
 ## Result
 ![result](https://user-images.githubusercontent.com/101320059/157618949-42f7336c-11d0-43df-a7b0-d03ff30a9504.png)
@@ -17,7 +17,7 @@ by ZhuAnJie
 ## Dependencies
 tqdm==4.9.0\
 matplotlib==2.1.2\
-mindspore==1.6.1
+mindspore==1.6.1 https://www.mindspore.cn/install
 
 ## Process data
 First, unpack the data files
