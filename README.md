@@ -1,5 +1,6 @@
 # Step-by-step
 Step by step: a hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning
+https://doi.org/10.1016/j.knosys.2022.108843
 
 ### Pytorch Version
 https://github.com/AnneZhu1020/Step-by-step
